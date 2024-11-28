@@ -1,4 +1,4 @@
-<img src='/Screenshot.png'>
+<img src='/TelegramAccountCreator.png'>
 
 # Telegram Account Creator
 
